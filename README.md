@@ -11,6 +11,6 @@ This repository contains materials related to Hajime Takeda's presentation on Cu
 - [Buy Till you Die Modeling](https://en.wikipedia.org/wiki/Buy_Till_you_Die) 
 
 
-## Key Reference
+## Paper
 - BG/NBD Model : [Counting Your Customers: Who Are They and What Will They Do Next? by by Peter Fader, Bruce Hardie and Ka Lok Lee](https://www.brucehardie.com/papers/bgnbd_2004-04-20.pdf)
 - Gamma-Gamma Model : [The Gamma-Gamma Model of Monetary Value by Fader, Peter S., and Bruce GS Hardie.](https://www.brucehardie.com/notes/025/gamma_gamma.pdf)
