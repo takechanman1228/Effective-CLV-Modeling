@@ -2,6 +2,8 @@ This repository contains materials related to Hajime Takeda's presentation on Cu
 
 ## Contents
 - [Demo Code](https://github.com/takechanman1228/Effective-CLV-Modeling/blob/main/PyMC_Marketing_CLV_demo.ipynb)
+- [Blog](https://medium.com/towards-data-science/pymc-marketing-the-key-to-advanced-clv-customer-lifetime-value-forecasting-bc0730973c0a)
+- [Slide](https://docs.google.com/presentation/d/1dCVegMk1ws9mqIWwDgM24cNnywZL7u1hHZUlRsj61LA/edit?usp=sharing)
 
 ## Data
 - [Online Retail Data from UCI Repository](https://archive.ics.uci.edu/dataset/352/online+retail)
