@@ -1,5 +1,7 @@
 This repository contains materials related to Hajime Takeda's presentation on Customer Lifetime Value(CLV) modeling at [PyData NYC 2023](https://pydata.org/nyc2023/). The talk demonstrates how to identify who valuable customers by predict future CLV using PyMC Marketing.
 
+📘 Latest version: See [Marketing Science in Python](https://marketing-science-in-python.com/) for updated content on customer lifetime value modeling and customer analytics.
+
 ## Contents
 - [Demo Code](https://github.com/takechanman1228/Effective-CLV-Modeling/blob/main/PyMC_Marketing_CLV_demo.ipynb)
 - [Blog](https://medium.com/towards-data-science/pymc-marketing-the-key-to-advanced-clv-customer-lifetime-value-forecasting-bc0730973c0a)
